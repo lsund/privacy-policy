@@ -1,2 +1,3 @@
-# privacy-policy
-Privacy Policy for my apps
+# Antibiotika - Privacy Noticy
+ 
+see ./privacy-policy.txt
