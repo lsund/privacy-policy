@@ -17,3 +17,5 @@ If we decide to change our privacy policy, we will update these changes on this 
 ### Contact us
 
 If you have any questions about this Privacy Policy, you can file an issue in this repository.
+
+Ludvig Sundstrom 2021
