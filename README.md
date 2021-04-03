@@ -1,3 +1,3 @@
 # Antibiotika - Privacy Noticy
  
-see ./privacy-policy.txt
+see [privacy-policy.md](privacy-policy.md)
