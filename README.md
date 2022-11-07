@@ -1,3 +1,2 @@
-Privacy Policy
- 
-see [privacy-policy.md](privacy-policy.md)
+
+See [privacy-policy.md](privacy-policy.md)
