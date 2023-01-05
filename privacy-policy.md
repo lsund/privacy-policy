@@ -2,9 +2,9 @@
 
 * We do not collect any information from you, such as your location or IP
   information.
-* Because we do not collect any information, there is no information to sale,
-  exchange, transfer to the outside world.
-* Because we do not collect any information, there are no security measures needed
+* We do not sell, exchange or transfer any information to the outside world.
+* There are no security measures needed related to information management, because our apps do not collect any
+  information.
 
 ### Your consent
 
@@ -12,10 +12,10 @@ By using our app, you agree to our app's privacy policy.
 
 ### Changes to our privacy policy
 
-If we decide to change our privacy policy, we will update these changes on this page.
+If we decide to change our privacy policy, we will update this document.
 
 ### Contact us
 
-If you have any questions about this Privacy Policy, you can file an issue in this repository.
+If you have any questions about this Privacy Policy, please file an issue.
 
-Ludvig Sundstrom 2021
+Ludvig Sundstrom 2023
